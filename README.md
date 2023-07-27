@@ -6,9 +6,9 @@
 - Database: SQLite for development. MySQL for testing and production.
 
 ## Objectives:
-1. FrontEnd
-[ ] task1   
-2. BackEnd
-[ ] task1
-3. DataBase
-[ ] task1
+1. **FrontEnd**
+- [ ] task1
+2. **BackEnd**
+- [ ] task1
+3. **DataBase**
+- [ ] task1
